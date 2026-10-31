@@ -6,7 +6,7 @@
   "description": "이사 일정 관리와 이삿짐 분류, 입주 하자 점검에 필요한 실용 정보를 제공합니다.",
   "accent": "#5D7B98",
   "url": "https://moving.guidehollow.com/",
-  "launchReady": false,
+  "launchReady": true,
   "adsReady": false,
   "pageTitle": "이사·입주 준비 생활 정보 가이드 | GuideHollow"
 }
