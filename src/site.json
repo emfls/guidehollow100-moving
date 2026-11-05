@@ -2,12 +2,13 @@
   "title": "GuideHollow",
   "slug": "moving",
   "section": "이사·입주 준비",
-  "hero": "이사 전 준비부터 입주 점검까지 놓치지 않는 순서",
-  "description": "이사 일정 관리와 이삿짐 분류, 입주 하자 점검에 필요한 실용 정보를 제공합니다.",
+  "hero": "이사 상자 수량",
+  "description": "부피와 상자 충전율로 필요한 상자 수를 올림 계산합니다.",
   "accent": "#5D7B98",
   "url": "https://moving.guidehollow.com/",
   "launchReady": true,
   "adsReady": false,
-  "pageTitle": "이사·입주 준비 생활 정보 가이드 | GuideHollow",
-  "coupangEnabled": true
+  "pageTitle": "이사 상자 수량 | GuideHollow",
+  "coupangEnabled": true,
+  "utilityEnabled": true
 }
